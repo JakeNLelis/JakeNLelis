@@ -1,4 +1,4 @@
-## Hi there, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=helvetica&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&height=25&lines=Nietzchan+Jake)](https://git.io/typing-svg)
+## Hi there, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=helvetica&size=24&pause=1000&vCenter=true&random=false&width=435&height=22&lines=Nietzchan+Jake)](https://git.io/typing-svg)
 <!--
 **JakeNLelis/JakeNLelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
